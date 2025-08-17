@@ -25,7 +25,7 @@ An intelligent AI-powered travel planning application that leverages multi-agent
 
 ## 🏗️ Architecture
 
-![Alt Text](images/arch.png)
+![Alt Text](arch.png)
 
 System Components
 GraphBuilder: Orchestrates the multi-agent workflow using LangGraph
@@ -61,7 +61,7 @@ source env/bin/activate
 # Install dependencies
 uv add pandas fastapi uvicorn streamlit langchain-groq langgraph python-dotenv requests
 
-#Traditional Installation
+# Traditional Installation
 
 git clone https://github.com/yourusername/ai-travel-planner.git
 cd ai-travel-planner
